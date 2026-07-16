@@ -31,9 +31,9 @@ The analysis combines five distinct datasets to build a comprehensive relational
 
 ## 🛠️ Tools & Technologies
 The project was executed using a modern data analytics stack:
-* **Microsoft Excel** – Initial data inspection, profiling, and quick ad-hoc cleaning.
-* **Python (Pandas, NumPy)** – Advanced data exploration, validation, and programmatic calculations.
-* **SQL Server** – Data cleaning, complex queries, and relational table joins.
+* **Microsoft Excel** – Initial data inspection, profiling, and quick cleaning.
+* **Python (Panda)** – data exploration, validation, and  calculations.
+* **SQL Server** – Data cleaning, queries, and  table joins.
 * **Power BI** – Star schema data modeling, DAX measures, interactive dashboard design, and visualization.
 
 ---
