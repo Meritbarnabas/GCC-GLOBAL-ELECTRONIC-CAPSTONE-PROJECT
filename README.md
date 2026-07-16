@@ -1,6 +1,6 @@
 # GCC-GLOBAL-ELECTRONIC-CAPSTONE-PROJECT
 This capstone project was completed as part of the Nexquantum Academy × PAC Foundation Data Analytics Program.
-# Global Electronics Retailer Sales Performance Analysis
+Project Overview
 
 The project analyzes the sales performance of a global electronics retailer using transactional, customer, product, store, and exchange rate data. The objective is to uncover business insights, evaluate sales performance, and provide data-driven recommendations to support strategic decision-making.
 
